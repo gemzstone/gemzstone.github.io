@@ -1,0 +1,15 @@
+{
+  "name": "TestPunk #371",
+  "description": "A very cool collection",
+  "image": "https://dalemat.github.io/metadata/images/371.png",
+  "dna": "c8161235123af79a399ae6a2d63653cac5af95cb",
+  "edition": 371,
+  "date": 1659731920366,
+  "attributes": [
+    {
+      "trait_type": "pix",
+      "value": "420"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
