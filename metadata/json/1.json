@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "Gemzstone NFT #1",
   "description": "These Nfts gives users access to so many locked contents",
   "image": "REPLACE/1.png",
+=======
+  "name": "GEMZS NFT #1",
+  "description": "A very cool collection",
+  "image": "https://dalemat.github.io/metadata/images/1.png",
+  "dna": "3e84291d686788e289820c5696414e7771ab0f5a",
+>>>>>>> eaffbadcb668099e05a71dfee80592b8d4fe4f39
   "edition": 1,
   "date": 1675297928609,
   "attributes": [
