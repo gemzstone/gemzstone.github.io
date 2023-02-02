@@ -1,0 +1,46 @@
+{
+  "name": "Gemzstone NFT #717",
+  "description": "These Nfts gives users access to so many locked contents",
+  "image": "REPLACE/717.png",
+  "edition": 717,
+  "date": 1675297994360,
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": "20"
+    },
+    {
+      "trait_type": "2",
+      "value": "10"
+    },
+    {
+      "trait_type": "2a",
+      "value": "7"
+    },
+    {
+      "trait_type": "3",
+      "value": "4"
+    },
+    {
+      "trait_type": "4",
+      "value": "13"
+    },
+    {
+      "trait_type": "5",
+      "value": "8"
+    },
+    {
+      "trait_type": "6",
+      "value": "6"
+    },
+    {
+      "trait_type": "7",
+      "value": "10"
+    },
+    {
+      "trait_type": "8",
+      "value": "10"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

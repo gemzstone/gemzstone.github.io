@@ -1,14 +1,45 @@
 {
-  "name": "TestPunk #408",
-  "description": "A very cool collection",
-  "image": "https://dalemat.github.io/metadata/images/408.png",
-  "dna": "7f2a43aadd512b7062688a7b2dffc6c89b925e8f",
+  "name": "Gemzstone NFT #408",
+  "description": "These Nfts gives users access to so many locked contents",
+  "image": "REPLACE/408.png",
   "edition": 408,
-  "date": 1659731921147,
+  "date": 1675297965986,
   "attributes": [
     {
-      "trait_type": "pix",
-      "value": "88"
+      "trait_type": "1",
+      "value": "28"
+    },
+    {
+      "trait_type": "2",
+      "value": "6"
+    },
+    {
+      "trait_type": "2a",
+      "value": "7"
+    },
+    {
+      "trait_type": "3",
+      "value": "5"
+    },
+    {
+      "trait_type": "4",
+      "value": "32"
+    },
+    {
+      "trait_type": "5",
+      "value": "5"
+    },
+    {
+      "trait_type": "6",
+      "value": "6"
+    },
+    {
+      "trait_type": "7",
+      "value": "5"
+    },
+    {
+      "trait_type": "8",
+      "value": "8"
     }
   ],
   "compiler": "HashLips Art Engine"
